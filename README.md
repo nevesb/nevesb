@@ -1,16 +1,22 @@
-### Hi there 👋
+## Sobre Mim
 
-<!--
-**nevesb/nevesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou o Brayan Neves, formado em Ciência da Computação pela Universidade Federal de Ouro Preto (UFOP), onde também concluí meu mestrado na mesma área. Sou apaixonado por tecnologia, inovação e soluções de dados.
 
-Here are some ideas to get you started:
+Minha jornada profissional inclui a co-fundação da Stilingue, uma empresa inovadora focada em dados e inteligência artificial. Na Stilingue, eu liderava o time de dados e, após a aquisição pela Take Blip, continuei contribuindo como líderança no time de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre buscando novos desafios e oportunidades para aplicar meu conhecimento em ciência de dados, além de estar envolvido em iniciativas que promovam o desenvolvimento tecnológico.
+
+### Áreas de Interesse
+
+- Ciência de Dados
+- Inteligência Artificial
+- Análise de Dados
+- Desenvolvimento de Software
+- Empreendedorismo
+
+### Entre em Contato
+
+- [LinkedIn](https://www.linkedin.com/in/brayanneves/)
+- [E-mail](mailto:bneves.advisor@gmail.com)
+
+Estou sempre aberto a novas conexões e colaborações. Vamos conversar!
