@@ -6,6 +6,8 @@ Minha jornada profissional inclui a co-fundação da Stilingue, uma empresa inov
 
 Estou sempre buscando novos desafios e oportunidades para aplicar meu conhecimento em ciência de dados, além de estar envolvido em iniciativas que promovam o desenvolvimento tecnológico.
 
+Atualmente estou trabalhando como Principal Engineer na [BrandLovrs](https://brandlovrs.com) na área de Social APIs.
+
 ### Áreas de Interesse
 
 - Ciência de Dados
