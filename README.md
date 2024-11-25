@@ -34,5 +34,6 @@ Atualmente, trabalho como **Principal Software Engineer** na **[BrandLovrs](http
 
 - [LinkedIn](https://www.linkedin.com/in/brayanneves/)
 - [E-mail](mailto:bneves.advisor@gmail.com)
+- [Site](https://nevesb.github.io/nevesb/)
 
 Estou sempre aberto a novas conexões e colaborações. Vamos conversar!
